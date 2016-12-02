@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hashtag_text: MyString
+  open: 1
+  close: 1
+  change: 1
+
+two:
+  hashtag_text: MyString
+  open: 1
+  close: 1
+  change: 1
